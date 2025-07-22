@@ -17,12 +17,6 @@ A sleek and minimal Color Picker web app built using ReactJS. Select any color u
 - JavaScript (ES6+)
 
 
-## 🌐 Live Demo
-
-🔗 [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)
-
-*(Update this once you deploy)*
-
 ## 📁 Folder Structure
 
 color-picker/
