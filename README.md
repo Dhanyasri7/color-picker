@@ -1,12 +1,42 @@
-# React + Vite
+# 🎨 React Color Picker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **React-based Color Picker** that lets you choose colors and copy their HEX & RGB values instantly.  
+Built with **React + Vite** for a fast and modern experience.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🎨 Pick colors using a modern color input  
+- 📋 Copy **HEX** and **RGB** codes with one click  
+- 📱 Responsive & clean UI  
+- ⚡ Powered by **React + Vite**  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖼️ Demo
+🔗 [Live Demo](https://your-netlify-link.netlify.app)  
+
+---
+
+## 🛠️ Tech Stack
+- **React (JSX)**  
+- **Vite**  
+- **CSS3**  
+
+---
+
+## 📂 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+npm install
+npm run dev
+npm run build 
+---
+
+👉 This version is **React-specific**, so it explains `npm install`, `npm run dev`, etc.  
+
+Do you also want me to **write a README for your Memory Game (React + Vite)** in exactly the same format so both projects look consistent on GitHub?
+ 
+git clone https://github.com/Dhanyasri7/color-picker.git
+cd color-picker
