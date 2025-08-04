@@ -14,7 +14,7 @@ Built with **React + Vite** for a fast and modern experience.
 ---
 
 ## 🖼️ Demo
-🔗 [Live Demo](https://your-netlify-link.netlify.app)  
+🔗 [Live Demo](https://dhanyasri7.github.io/color-picker/)  
 
 ---
 
