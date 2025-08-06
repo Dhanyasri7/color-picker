@@ -14,7 +14,7 @@ Built with **React + Vite** for a fast and modern experience.
 ---
 
 ## 🖼️ Demo
-🔗 [Live Demo](https://dhanyasri7.github.io/color-picker/)  
+🔗 [Live Demo](https://h3drdvm8-5173.inc1.devtunnels.ms/)  
 
 ---
 
